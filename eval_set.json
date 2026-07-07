@@ -1,0 +1,12 @@
+[
+  {"question": "How many in-office days per week did the original 2023 policy require?", "expected_doc_id": "remote_work_policy_2023"},
+  {"question": "Can employees work fully remote indefinitely under the 2024 addendum?", "expected_doc_id": "remote_work_policy_2024_addendum"},
+  {"question": "What is the daily meal reimbursement limit for domestic travel?", "expected_doc_id": "expense_reimbursement_policy"},
+  {"question": "Within how many days must an expense report be submitted?", "expected_doc_id": "expense_reimbursement_policy"},
+  {"question": "How long is employee data retained after termination?", "expected_doc_id": "data_privacy_policy"},
+  {"question": "How quickly must the company respond to a data subject access request?", "expected_doc_id": "data_privacy_policy"},
+  {"question": "How many PTO days do full-time employees accrue per year?", "expected_doc_id": "leave_pto_policy"},
+  {"question": "How many weeks of paid parental leave are employees eligible for?", "expected_doc_id": "leave_pto_policy"},
+  {"question": "What home office stipend is provided under the 2024 remote work addendum?", "expected_doc_id": "remote_work_policy_2024_addendum"},
+  {"question": "Are alcohol expenses reimbursable while traveling for business?", "expected_doc_id": "expense_reimbursement_policy"}
+]
