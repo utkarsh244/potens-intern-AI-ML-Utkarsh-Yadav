@@ -1,0 +1,22 @@
+Data Privacy Policy
+
+Purpose
+This policy describes how the company collects, stores, and processes personal data belonging to employees, customers, and other individuals, and outlines the rights of data subjects.
+
+Data Collection
+The company collects personal data necessary for employment administration, payroll, benefits, and customer service, including names, contact details, government identification numbers, and payment information. Data is collected directly from the individual wherever possible.
+
+Data Storage and Retention
+Personal data is stored in encrypted databases hosted in the region where it was collected. Employee records are retained for the duration of employment plus seven years after termination, in accordance with applicable labor and tax regulations. Customer data is retained for as long as the customer maintains an active account, plus 24 months after account closure, unless a longer retention period is required by law.
+
+Data Access
+Access to personal data is restricted to employees whose job functions require it, based on the principle of least privilege. All access to sensitive personal data is logged and subject to periodic audit by the Security team.
+
+Data Subject Rights
+Individuals may request access to, correction of, or deletion of their personal data by submitting a request to the Data Protection Officer. The company will respond to such requests within 30 days. Deletion requests may be denied where retention is required by law, such as for financial records.
+
+Third-Party Sharing
+Personal data is not sold to third parties. Data may be shared with service providers (such as payroll processors or cloud hosting vendors) under contracts that require equivalent data protection standards.
+
+Breach Notification
+In the event of a data breach affecting personal data, the company will notify affected individuals and relevant regulators within 72 hours of becoming aware of the breach, where required by applicable law.
