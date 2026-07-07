@@ -55,8 +55,12 @@ Real sentence tokenization, incremental ingestion, chunk-level retrieval for `/c
 
 
 ##screenshots 
+1.showing the multilingual outputs with the chunks to retrieve,confidence level and citation.
 <img width="1912" height="1023" alt="Screenshot 2026-07-07 201523" src="https://github.com/user-attachments/assets/25299205-b5e3-42ec-b885-0dbd9ed81e5b" />
 <img width="1915" height="1013" alt="Screenshot 2026-07-07 201352" src="https://github.com/user-attachments/assets/a90fb0da-7d2c-4c6c-af2f-85653ae09f72" />
+2.If the docs do not cover the related question, the system  say so explicitly.
+<img width="1906" height="973" alt="Screenshot 2026-07-07 201722" src="https://github.com/user-attachments/assets/f1a38cf7-c2d3-4696-8985-66dbb2205bba" />
+3./contradict endpoint that takes two document IDs and returns whether they conflict on a topic, with reasoning
 <img width="1917" height="1017" alt="Screenshot 2026-07-07 201544" src="https://github.com/user-attachments/assets/44ec0850-3590-4ad8-8675-9819ce14fa21" />
 <img width="1916" height="1026" alt="Screenshot 2026-07-07 201613" src="https://github.com/user-attachments/assets/b7aa5461-177e-4ec7-b1f2-1a6d4fc69524" />
-<img width="1906" height="973" alt="Screenshot 2026-07-07 201722" src="https://github.com/user-attachments/assets/f1a38cf7-c2d3-4696-8985-66dbb2205bba" />
+
